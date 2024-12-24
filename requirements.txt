@@ -1,5 +1,5 @@
-streamlit==1.25.0
-yfinance==0.2.27
-pandas==2.0.3
-plotly==5.16.1
-ollama==1.2.3
+streamlit==1.20.0
+yfinance==0.2.18
+pandas==1.5.3
+plotly==5.14.1
+ollama==0.2.0
