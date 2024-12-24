@@ -9,6 +9,9 @@ Stock-I is designed to simplify stock analysis for traders and investors. Whethe
 
 ---
 
+![Screenshot 2024-12-24 134308](https://github.com/user-attachments/assets/e47b9209-146a-44a1-9152-d2a9a06866a0)
+
+
 ## 🌟 Features
 
 - **Single Stock Analysis**  
@@ -27,6 +30,7 @@ Stock-I is designed to simplify stock analysis for traders and investors. Whethe
   Analyze stocks from different markets with intuitive ticker suffix guidance.
 
 ---
+![Screenshot 2024-12-24 134542](https://github.com/user-attachments/assets/bd314370-5d60-4bcf-82ed-7c2e67121310)
 
 ## 🛠 How to Use
 
