@@ -3,6 +3,8 @@
 Welcome to **Stock-I**, a visually engaging and user-friendly stock analysis tool. Built with Streamlit, Stock-I empowers traders and investors to make data-driven decisions through insightful visualizations, AI recommendations, and customizable favorites tracking.
 
 ---
+Link to the app deployed using streamlit: https://stock-i.streamlit.app/
+
 
 ## 📌 Description
 Stock-I is designed to simplify stock analysis for traders and investors. Whether you’re exploring a single stock’s trends or tracking your favorite stocks, Stock-I has you covered. With features like AI-powered insights and technical analysis, Stock-I ensures you stay ahead in the market.
